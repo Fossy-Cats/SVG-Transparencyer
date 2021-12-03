@@ -1,5 +1,7 @@
 # SVG-Transparencyer
 
+https://github.com/Fossy-Cats/SVG-Transparencyer
+
 ## About
 
 Searches in SVG files for a color string and sets the corresponding color attributes to transparent.
